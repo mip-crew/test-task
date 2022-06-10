@@ -38,6 +38,21 @@
 - Выполнение перемещений
 - Остаток газа в каждом периоде
 
+Задачу нужно выполнить на языке python c любым алгебраическим пакетом:
+
+- [pyomo](https://github.com/Pyomo/pyomo)
+- [mip](https://github.com/coin-or/python-mip)
+- [cvxpy](https://github.com/cvxpy/cvxpy)
+- [pulp](https://github.com/coin-or/pulp/)
+- etc
+
+С использованием любого свободного решателя:
+
+- [glpk](https://www.gnu.org/software/glpk/)
+- [cbc](https://github.com/coin-or/Cbc)
+- [or-tools](https://github.com/google/or-tools)
+- etc
+
 <details>
 Cледить за остатком газа в машине,
 допустимым объемом отгрузки каждому клиенту,
