@@ -1,0 +1,2 @@
+minPeriod   0
+maxPeriod   25
