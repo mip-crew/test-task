@@ -1,9 +1,0 @@
-Parametres      input       параметры
-Cities          input       справочник городов
-Cars            input       справочник машин
-Orders          input       заявки
-Routes          input       доступные маршруты движения
-ordersMade      result      выполнение заявок
-runsMade        result      выполненные движения
-capacityMade    result      загрузка машины по периодам
-OrdersLeft      остаток     по невыполненным заявкам
